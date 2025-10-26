@@ -1361,7 +1361,7 @@ def explicit_fahr_to_celsius(temp):
 ```python
 def fahr_to_celsius(temp):
     # Return converted values more efficiently using the return function without creating
-    # a new varible. This code does the sam thing as the previous function but it is more
+    # a new varible. This code does the same thing as the previous function but it is more
     # explicit in explaining how the return command works.
     return ((temp - 32) * (5/9))
 ```
